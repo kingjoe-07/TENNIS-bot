@@ -2,6 +2,9 @@
   "name": "tennis-bot",
   "version": "1.0.0",
   "scripts": {
-    "build": "echo ok"
+    "build": "echo build ok"
+  },
+  "engines": {
+    "node": "18.x"
   }
 }
